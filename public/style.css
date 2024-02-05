@@ -1,0 +1,36 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 20px;
+}
+
+#characterSheet {
+  background-color: #fff;
+  padding: 20px;
+  margin: 0 auto;
+  width: 800px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+h2,
+p {
+  margin: 5px 0;
+}
+
+.character-info,
+.stats,
+.features {
+  margin-bottom: 20px;
+}
+
+.character-info h2 {
+  margin-bottom: 10px;
+}
+
+.stats p,
+.features p {
+  margin-left: 20px;
+}
+
+/* Add more styles as needed for alignment, borders, and specific section styling */
